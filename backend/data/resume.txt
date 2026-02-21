@@ -1,0 +1,51 @@
+ANUJKUMAR YADAV
+Python Developer
+Location: Bengaluru, Karnataka
+
+CAREER OBJECTIVE:
+Motivated Python developer with experience in backend development, REST APIs, and scalable database-driven applications.
+
+EDUCATION:
+B.E. Computer Science
+Visvesvaraya Technological University (VTU)
+Duration: 2022-2026
+CGPA: 7.6
+
+SKILLS:
+Programming Languages: Python
+Frameworks: Django, Flask, FastAPI
+Databases: MySQL, SQLAlchemy
+Frontend Technologies: HTML5, CSS3, JavaScript
+Version Control: Git, GitHub
+Other Skills: REST APIs, Backend Development, Database Optimization
+
+PROJECTS:
+
+1. AI Powered Email Assistant
+Description: A Chrome extension that generates intelligent, context-aware email replies directly in Gmail.
+Technologies: Spring Boot, JavaScript, Chrome Extension API, AI Integration
+Key Features:
+- Generated smart context-based email replies
+- Integrated directly into Gmail user interface
+- Provides intelligent response suggestions based on email context
+
+2. Student Performance Tracker
+Description: Backend web application to manage and track student academic data.
+Technologies: Django, MySQL, Python, REST APIs
+Key Features:
+- Implemented complete CRUD operations for student data management
+- Optimized database queries for improved performance
+- Built RESTful API endpoints for data access
+- Managed student academic records and performance metrics
+
+TECHNICAL EXPERTISE:
+- Backend Development: Strong experience in building scalable backend systems using Python frameworks
+- Database Management: Proficient in database design, optimization, and query performance
+- API Development: Experienced in designing and implementing RESTful APIs
+- Full-Stack Development: Knowledge of both frontend and backend technologies
+
+PROFESSIONAL ATTRIBUTES:
+- Strong problem-solving skills
+- Experience with scalable application development
+- Knowledge of software development best practices
+- Ability to work with modern development tools and workflows
